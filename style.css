@@ -73,7 +73,9 @@ main {
 }
 .item__img_rec {
     object-fit: contain;
-    width: 1300px;
+    height: 150PX;
+    
+    
 }
 
 .list__item a:hover {
